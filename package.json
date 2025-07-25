@@ -1,0 +1,12 @@
+{
+  "name": "claude-code-actions-demo",
+  "version": "1.0.0",
+  "description": "Demo repository for Claude Code GitHub Actions",
+  "main": "src/example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["claude", "ai", "github-actions"],
+  "author": "",
+  "license": "MIT"
+}
